@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,20 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Bridgeworks Ultimate Builder's Expansion (EDU)",
-        "role": "Minecraft has a ton of blocks yea... But it could have more! Introducing: The Ultimate Builder's Expansion! Perfect for builds of so many more types! With over 100 new blocks to choose from, this Texture pack is a better addition than most block addons! ",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/5/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/5/Bridgeworks_Entertainment_Builder_Expansion.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/5/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/5/3.png"
-    }, 
-    {
-        "name": "Fnaf Universe (Eternal Package Final Update)No Voices",
-        "role": "Five nights at freddys is a popular horror game created by an awesome man named Scott Cawthon who is legendary for his memes and trolls. Fnaf is a inde horror game where you take a nightshift in a dark creepy resturant as a secuirity gaurd unaware of the dead children inside the animatronic suits as the possess them at night to roam around to get to your office!!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/13/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/13/fnafepRlessvoices.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/13/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/13/3.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
