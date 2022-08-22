@@ -2,7 +2,7 @@
     "Config": [
         {
             "interval": 4,
-            "backup": "unity",
+            "backup": "applovin",
             "status": true,
             "link": "https://google.com/",
             "contact": "https://google.com/",
@@ -17,9 +17,9 @@
             "admob_native": "ca-app-pub-3044835834543602/8509039008",
             "unity_banner": "Banner_Android",
             "unity_inter": "Interstitial_Android",
-            "applovin_banner": "unitid",
-            "applovin_inter": "unitid",
-            "applovin_native": "unitid",
+            "applovin_banner": "110c0b8c27738b7a",
+            "applovin_inter": "ada2a920f2d03539",
+            "applovin_native": "28fa01c2b659a2c6",
             "ironsource_banner": "1215fccad",
             "ironsource_inter": "1215fccad"
         }
